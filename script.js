@@ -8,5 +8,5 @@ function support(){
     window.open("https://www.rgpv.ac.in/Support/SupportDesk.aspx");
 }
 function chatbot(){
-    window.open("https://www.chatbase.co/chatbot-iframe/8KK6mPIl9C17BttK4-TPL");
+    window.open("https://www.chatbase.co/chatbot-iframe/M0irNH90fRLXYa7JzZLZ5");
 }
